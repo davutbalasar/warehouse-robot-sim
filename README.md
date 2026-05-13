@@ -1,6 +1,8 @@
 # warehouse-robot-sim
 A ROS2 simulation of a Roomba like warehouse robot that patrols a corridor and collects trash from sections. Utilizes pygame for 2D and RViz2 for 3D visualization.
 
+[Guide Link](https://www.notion.so/Windows-zerinde-WSL-de-ROS-2-kurulumu-ve-kullan-m-3173a84cb5d180bc84e8fb37c6d04953) - A comprehensive guide in Turkish for setting up the project environment, created by Davut, Büşra and Fatih.
+
 <br>
 <br>
 
